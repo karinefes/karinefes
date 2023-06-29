@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou a Karine Fernandes </h1> 🖐🏻
+<h1 align="center"> Olá, eu sou a Karine Fernandes 🖐 </h1> 
 
-💻Estudando Front-end
-✨Em busca de uma oportunidade
+<p>💻Estudando Front-end</P>
+<p>✨Em busca de uma oportunidade</p>
