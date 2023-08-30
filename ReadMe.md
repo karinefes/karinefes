@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 karine Fernandes:
 Estudando Front- end 
 
 
