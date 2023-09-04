@@ -1,5 +1,5 @@
 # 💫 karine Fernandes
-Estudando Front- end
+Estudando Front- end <hr>
 Em transição de carreira
 
 ## 🌐 Socials:
