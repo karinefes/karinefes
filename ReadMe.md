@@ -1,6 +1,6 @@
-# 💫 About Me:
-Estudando Front- end 
-
+# 💫 karine Fernandes
+Estudando Front- end
+Em transição de carreira
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karine-fernandes-898a16186/) 
